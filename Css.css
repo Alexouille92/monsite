@@ -1,0 +1,53 @@
+body {
+ background-color:blanchedalmond; 
+ font-family: Verdana, sans-serif; 
+ font-size: 100%;
+ }
+ p {
+    border-width:3px;
+    border-style:solid;
+    border-color:black;
+}
+.solid{
+    border: 2px solid black;
+ }
+
+ .photoDor {
+     position: relative ;
+     left: 540px; bottom: 220px;
+}
+.college {
+    color: navy; background-color: aqua;
+    text-decoration: underline;
+}
+.lycé { 
+    {
+        color: green; background-color: lime;
+        text-decoration: underline;
+}
+h1 {
+ font-size: 200%; 
+ color: navy; 
+ text-align: center;
+ }
+h2 {
+ font-size: 150%; 
+ color: red; 
+ padding-left: 15px;
+ }
+h3 {
+ font-size: 150%; 
+ color: brown; 
+ padding-left: 15px;
+}
+h4 {
+ font-size: 150%; 
+ color: azure; 
+ padding-left: 15px;
+}
+h5 {
+ font-size: 150%; 
+ color: black; 
+ padding-left: 15px;
+}  
+	<link type="text/css" rel="stylesheet" href="Projet NSI.html">
